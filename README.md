@@ -1,2 +1,3 @@
 # iOSTransitionsDemo
-iOS Transitions Demo
+ 
+Examples of UIViewController's transitions
